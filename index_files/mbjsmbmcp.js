@@ -27,7 +27,7 @@ n(ax,[],"first_button",true);var av=null;var aC=ax;while(aC){if(aC.nodeName&&aC.
  MenuDirection: 0,
  MenuName: "mbmcp",
  DefaultDirectionX: 1,
- HamburgerEnabled: true,
+ HamburgerEnabled: false,
  HamburgerFromWidth: -1
 });
 // Created with Easy Button & Menu Maker
