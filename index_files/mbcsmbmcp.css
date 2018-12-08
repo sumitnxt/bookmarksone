@@ -522,6 +522,17 @@
   background-image: url(ebab_mbmcp_d2.png); 
 } 
 
+#mbmcpebul_table div.arrow_1 { 
+  background-image: url(ebab_mbmcp1_d.png); 
+  background-repeat: no-repeat; 
+  background-position: right center; 
+  height: 100%; 
+} 
+
+#mbmcpebul_table li:hover div.arrow_1, #mbmcpebul_table li.active div.arrow_1, #mbmcpebul_table li.expanded div.arrow_1, #mbmcpebul_table li.itemhot div.arrow_1 { 
+  background-image: url(ebab_mbmcp1_d2.png); 
+} 
+
 #mbmcpebul_table ul li a.with_arrow, #mbmcpebul_table_burger ul li a div.with_arrow { 
   background-image: url(ebab_mbmcp_c.png); 
   background-repeat: no-repeat; 
@@ -642,5 +653,17 @@
 #mbmcpebul_table li a.button_73, #mbmcpebul_table li div a.button_73 { 
   font-family: "Open Sans",Arial,Helvetica,sans-serif; 
   padding-right: 24px; 
+} 
+
+#mbmcpebul_table li a.button_74, #mbmcpebul_table li div a.button_74 { 
+  font-family: "Open Sans",Arial,Helvetica,sans-serif; 
+  color: #FF0033; 
+  text-decoration: underline; 
+  padding-right: 24px; 
+} 
+
+#mbmcpebul_table li.expanded a.button_74, #mbmcpebul_table li.active a.button_74, #mbmcpebul_table li.itemhot a.button_74, #mbmcpebul_table li:hover div.buttonbg a.button_74, #mbmcpebul_table li div.buttonbg a.button_74:hover { 
+  color: #97CC35; 
+  text-decoration: none; 
 } 
 

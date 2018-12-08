@@ -1,6 +1,8 @@
 C:\Web Sites\bookmarksone\index_files\ebab_mbmcp.png
 C:\Web Sites\bookmarksone\index_files\ebab_mbmcp_d.png
 C:\Web Sites\bookmarksone\index_files\ebab_mbmcp_d2.png
+C:\Web Sites\bookmarksone\index_files\ebab_mbmcp1_d.png
+C:\Web Sites\bookmarksone\index_files\ebab_mbmcp1_d2.png
 C:\Web Sites\bookmarksone\index_files\ebab_mbmcp_c.png
 C:\Web Sites\bookmarksone\index_files\mbjsmbmcp.js
 C:\Web Sites\bookmarksone\index_files\mbcsmbmcp.css
